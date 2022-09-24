@@ -2,7 +2,7 @@
   "name": "CYBER-X 1.5 BETA",
   "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
   "repository": "https://github.com/aftab2683/CYBER-X-BETA-1.5.1-RELEASE-",
-  "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
+  "logo": "https://telegra.ph/file/8398c9df07e5cd5a26626.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
@@ -38,7 +38,7 @@
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/8398c9df07e5cd5a26626.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
@@ -48,17 +48,17 @@
 			"MENU_IMAGE": {
 			"description": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/8398c9df07e5cd5a26626.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
 			"required": true,
-			"value": "https://telegra.ph/file/ec6ee52c715d16837c7ca.jpg"
+			"value": "https://telegra.ph/file/8398c9df07e5cd5a26626.jpg"
 			},
 			"GOODBYE_IMAGE": {
 			"description": "Add Your Goodbye Image",
 			"required": true,
-			"value": "https://telegra.ph/file/4a576ba9ee45994d62aaa.jpg"
+			"value": "https://telegra.ph/file/8398c9df07e5cd5a26626.jpg"
 			},
 			"CAPTION": {
 			"description": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢03015326254",
