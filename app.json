@@ -8,17 +8,17 @@
           	"SUDO_NUMBER": {
 			"description": "923015326254",
 			"required": true,
-			"value": "923015326254"
+			"value": "923131504542"
 		    },
 		    "BOT_NAME": {
 			"description": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
 			"required": true,
-			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
+			"value": "ab siddique"
 			},
 			"BOT_NUMBER": {
 			"description": "923305344152",
 			"required": true,
-			"value": "923305344152"
+			"value": "923554680516"
 			},
 			"STICKERS_NAME": {
 			"description": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
@@ -28,7 +28,7 @@
 			"OWNER_NAME": {
 			"description": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
 			"required": true,
-			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
+			"value": "ab siddique"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
@@ -73,7 +73,7 @@
 			"PREMIUM_NUMBER" : {
 			"description": "923015326254",
 			"required": true,
-			"value": "923015326254"
+			"value": "923131504542"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
